@@ -19,6 +19,7 @@ void Swap(int *xp, int *yp)
 void SortAscending(int arr[], int n)
 {
     int i, j;
+	//b2
     for (i = 0; i < n - 1; i++)
     {
         /* Last i elements are already in place */
